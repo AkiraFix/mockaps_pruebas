@@ -1,0 +1,10 @@
+:root{
+    15px
+}
+
+*{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
